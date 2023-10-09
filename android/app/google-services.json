@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "832939629975",
+    "project_id": "zen-a14b7",
+    "storage_bucket": "zen-a14b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832939629975:android:d6bfe103ab60c33a1df8d2",
+        "android_client_info": {
+          "package_name": "com.example.rive_animation"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMojIWsMdWAoABk7NOJA6B-Z3x19BBKKw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
